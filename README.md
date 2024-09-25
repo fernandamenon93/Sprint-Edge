@@ -1,5 +1,5 @@
 ![Fiap - TechMahindra](logofigma-Copia.PNG)
-# Projeto Fiap-TechMahindra - Spring 2
+# Projeto Fiap-TechMahindra - Sprint 2
 
 ## O Projeto
 Fórmula E 
