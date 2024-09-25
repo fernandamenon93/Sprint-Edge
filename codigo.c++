@@ -1,21 +1,9 @@
 /*
-  Configure o cliente do navegador HiveMQ para visualizar as
-  mensagens MQTT publicadas pelo cliente MQTT.
+  Adicione os tópicos de assinatura um para cada tópico que o ESP32 usa:
+  topic_on_off_led/#
 
-  1) Vá para a URL abaixo e clique no botão conectar
-     http://www.hivemq.com/demos/websocket-client/
-
-  2) Adicione os tópicos de assinatura um para cada tópico que o ESP32 usa:
-     topic_on_off_led/#
-
-  3) Experimento publicar no topico topic_on_off_led com a mensagem 1 e 0
-     para ligar e desligar o LED"
-
-  IMPORTANTE: É necessário rodar o Wokwi Gateway e habilitar a opção
-  "Enable Private Wokwi IoT Gateway" através da tecla de atalho F1 no editor de código.
-
-  Para baixar o Wokwi IoT Network Gateway acesse o seguinte link:
-    https://github.com/wokwi/wokwigw/releases/
+  Experimento publicar no topico topic_on_off_led com a mensagem 1 e 0
+  para ligar e desligar o LED"
 */
 
 #include <PubSubClient.h>
