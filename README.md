@@ -6,6 +6,8 @@ Fórmula E
 Desenvolvemos atráves de IOT um sistema capaz de aumentar a interação dos espectadores com as corridas, onde o usuario podera mudar a cor do led dá sua pulseira interativa, todos as pessoas nas arquibancadas receberam um puleira rgb. Que poderá ser vista através das transmissões de forma muito interativa.
 
 Vídeo de exibição: [https://youtu.be/nFej_gE7RgE?si=FXJV2U1PnVG6fqxp](https://youtu.be/2j3WFnkAS-k)
+<br>
+Simulação Wokwi: https://wokwi.com/projects/410042956621624321
 
 ## Funcionalidades
 
